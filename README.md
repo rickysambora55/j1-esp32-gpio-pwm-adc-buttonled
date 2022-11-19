@@ -19,11 +19,11 @@ Pada jobsheet 1 terdapat 3 project yaitu simulasi GPIO, PWM, dan ADC menggunakan
 
 1. Susun komponen sesuai dengan rangkaian
 2. Buka Arduino IDE dan instal ESP32
- - Masuk ke **Preferences**
- - Isikan board url dengan link : https://dl.espressif.com/dl/package_esp32_index.json dan simpan
- - Buka **Tools** > **Board** > **Boards Manager**
- - Cari ESP32, by Espressif. Kemudian instal
- - Pilih flash mode DIO/QIU menyesuaikan
+   - Masuk ke **Preferences**
+   - Isikan board url dengan link : https://dl.espressif.com/dl/package_esp32_index.json dan simpan
+   - Buka **Tools** > **Board** > **Boards Manager**
+   - Cari ESP32, by Espressif. Kemudian instal
+   - Pilih flash mode DIO/QIU menyesuaikan
 3. Jalankan program .ino
 4. Jika terdapat error saat uploading, tekan dan tahan tombol *Boot* pada ESP32 saat upload, hingga *Connecting* selesai
 ## Project 1 - GPIO
@@ -32,15 +32,15 @@ Pada jobsheet 1 terdapat 3 project yaitu simulasi GPIO, PWM, dan ADC menggunakan
 
 1. Led menyala saat button ditekan
 
-<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1043480465459400754/GPIO1.png"  width="480px">
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1043480465459400754/GPIO1.png" width="480px">
 
 2. Led menyala dan *blink* saat button ditekan
 
-![GPIO2](https://cdn.discordapp.com/attachments/1043462519336996894/1043480466159841370/GPIO2.png)
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1043480466159841370/GPIO2.png" width="480px">
 
 3. Led menyala, *blink*, dan berjalan saat button ditekan
 
-![GPIO3](https://cdn.discordapp.com/attachments/1043462519336996894/1043480465866235975/GPIO3.png)
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1043480465866235975/GPIO3.png" width="480px">
 ### Keluaran
 
 1. Led menyala saat button ditekan
@@ -59,11 +59,11 @@ Pada jobsheet 1 terdapat 3 project yaitu simulasi GPIO, PWM, dan ADC menggunakan
 
 1. Satu LED *breathing*
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1043462519336996894/1043497654681866240/PWM1.png)
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1043497654681866240/PWM1.png" width="480px">
 
 2. Tiga LED *breathing*
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1043462519336996894/1043497654354706494/PWM2.png)
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1043497654354706494/PWM2.png" width="480px">
 ### Keluaran
 
 1. Satu LED *breathing*
@@ -80,17 +80,17 @@ Pada jobsheet 1 terdapat 3 project yaitu simulasi GPIO, PWM, dan ADC menggunakan
 
 1. Keluaran potensio pada serial monitor
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1043462519336996894/1043497654681866240/PWM1.png)
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1043512224053985410/ADC1.png" width="480px">
 
 2. Potensio terhadap cahaya LED
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1043462519336996894/1043497654354706494/PWM2.png)
+<img src="https://cdn.discordapp.com/attachments/1043462519336996894/1043512224393728091/ADC2.png" width="480px">
 ### Hasil
 
 1. Keluaran potensio pada serial monitor
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1043462519336996894/1043497654681866240/PWM1.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/1043462519336996894/1043514762471931984/ADC1.gif)
 
 2. Potensio terhadap cahaya LED
 
-![App Screenshot](https://cdn.discordapp.com/attachments/1043462519336996894/1043497654354706494/PWM2.png)
+![App Screenshot](https://cdn.discordapp.com/attachments/1043462519336996894/1043514762790703114/ADC2.gif)
