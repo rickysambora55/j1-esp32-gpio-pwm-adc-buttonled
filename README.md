@@ -37,15 +37,15 @@ Pada jobsheet 1 terdapat 3 project yaitu simulasi GPIO, PWM, dan ADC menggunakan
 
 1. Led menyala saat button ditekan
 
-<img src="https://github.com/user-attachments/assets/cbf747fa-3777-4cfe-95f0-151ad95e4bfc" width="480px">
+<img src="https://github.com/user-attachments/assets/cbf747fa-3777-4cfe-95f0-151ad95e4bfc" width="60%">
 
 2. Led menyala dan _blink_ saat button ditekan
 
-<img src="https://github.com/user-attachments/assets/dc2597ba-f644-4dcf-bd4f-460f56b9caad" width="480px">
+<img src="https://github.com/user-attachments/assets/dc2597ba-f644-4dcf-bd4f-460f56b9caad" width="60%">
 
 3. Led menyala, _blink_, dan berjalan saat button ditekan
 
-<img src="https://github.com/user-attachments/assets/f8603a57-3d71-43a0-975c-634a9b208b4f" width="480px">
+<img src="https://github.com/user-attachments/assets/f8603a57-3d71-43a0-975c-634a9b208b4f" width="60%">
 
 ### Keluaran
 
@@ -67,11 +67,11 @@ Pada jobsheet 1 terdapat 3 project yaitu simulasi GPIO, PWM, dan ADC menggunakan
 
 1. Satu LED _breathing_
 
-<img src="https://github.com/user-attachments/assets/98923ab1-c8fc-4b1c-b64a-3d8110797c2e" width="480px">
+<img src="https://github.com/user-attachments/assets/98923ab1-c8fc-4b1c-b64a-3d8110797c2e" width="60%">
 
 2. Tiga LED _breathing_
 
-<img src="https://github.com/user-attachments/assets/999ce152-d8a8-44ca-8471-d3aac8083cd9" width="480px">
+<img src="https://github.com/user-attachments/assets/999ce152-d8a8-44ca-8471-d3aac8083cd9" width="60%">
 
 ### Keluaran
 
@@ -89,11 +89,11 @@ Pada jobsheet 1 terdapat 3 project yaitu simulasi GPIO, PWM, dan ADC menggunakan
 
 1. Keluaran potensio pada serial monitor
 
-<img src="https://github.com/user-attachments/assets/55a858a6-ba38-4ee9-afce-214f0c5578d9" width="480px">
+<img src="https://github.com/user-attachments/assets/55a858a6-ba38-4ee9-afce-214f0c5578d9" width="60%">
 
 2. Potensio terhadap cahaya LED
 
-<img src="https://github.com/user-attachments/assets/8f06d718-b2e5-4b61-b79e-f2ea9a3f376a" width="480px">
+<img src="https://github.com/user-attachments/assets/8f06d718-b2e5-4b61-b79e-f2ea9a3f376a" width="60%">
 
 ### Hasil
 
