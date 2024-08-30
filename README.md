@@ -41,11 +41,11 @@ Pada jobsheet 1 terdapat 3 project yaitu simulasi GPIO, PWM, dan ADC menggunakan
 
 2. Led menyala dan _blink_ saat button ditekan
 
-<img src="[https://cdn.discordapp.com/attachments/1043462519336996894/1043480466159841370/GPIO2.png](https://github.com/user-attachments/assets/dc2597ba-f644-4dcf-bd4f-460f56b9caad)" width="480px">
+<img src="https://github.com/user-attachments/assets/dc2597ba-f644-4dcf-bd4f-460f56b9caad" width="480px">
 
 3. Led menyala, _blink_, dan berjalan saat button ditekan
 
-<img src="[https://cdn.discordapp.com/attachments/1043462519336996894/1043480465866235975/GPIO3.png](https://github.com/user-attachments/assets/f8603a57-3d71-43a0-975c-634a9b208b4f)" width="480px">
+<img src="https://github.com/user-attachments/assets/f8603a57-3d71-43a0-975c-634a9b208b4f" width="480px">
 
 ### Keluaran
 
